@@ -22,14 +22,6 @@ We analyzed customer demographics, service usage, contract types, billing method
 
 ---
 
-## 📁 Contents
-
-- `Customer_churn.ipynb`: Jupyter Notebook with full analysis
-- `Customer_Churn_Formatted_Report.html`: Clean, styled report (code-free version)
-- 📄 Visualizations, summary insights, and recommendations
-
----
-
 ## 🚀 Tools Used
 
 - Python (Pandas, NumPy, Seaborn, Matplotlib)
@@ -44,8 +36,4 @@ We analyzed customer demographics, service usage, contract types, billing method
 Special thanks to **Google Developer Groups (GDG)** and the amazing organizers of the **Data Science Bootcamp** for providing this incredible learning opportunity. Your mentorship and resources made this project possible. 💙
 
 ---
-
-## 📬 Contact
-
-Feel free to connect if you'd like to collaborate or share feedback!
 
